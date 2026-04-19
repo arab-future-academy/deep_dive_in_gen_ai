@@ -21,3 +21,7 @@ Tutorial on how to build and integrate AI capabilities into applications using t
 ### 4. Variational autoencoders, latent space, and editing face images in the latent space
 A deep dive into VAE architecture, understanding how latent space works, and demonstrating how to edit facial features by manipulating latent vectors.
 <br><video src="imgs/vid04.mp4" width="600" controls="" muted="" autoplay="" type="video/mp4" >
+
+
+https://github.com/user-attachments/assets/d7bf54b7-cc5a-4b5e-bbc4-9e390f4c0ac1
+
