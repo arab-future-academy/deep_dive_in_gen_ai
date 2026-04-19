@@ -1,0 +1,5 @@
+pyannote.audio
+soundfile
+openai-whisper
+opentimelineio
+otio_kdenlive_adapter
