@@ -1,0 +1,9 @@
+
+download nodejs:
+   https://nodejs.org/en/download
+
+check node version
+> node -v
+
+install gemini:
+> npm install -g @google/gemini-cli
