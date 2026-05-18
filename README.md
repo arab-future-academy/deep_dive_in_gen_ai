@@ -26,4 +26,3 @@ A deep dive into VAE architecture, understanding how latent space works, and dem
 https://github.com/user-attachments/assets/d7bf54b7-cc5a-4b5e-bbc4-9e390f4c0ac1
 
 
-<img width="640" height="661" alt="brain" src="https://github.com/user-attachments/assets/8820e544-7842-4d06-b673-5a5670d4b7cb" />
